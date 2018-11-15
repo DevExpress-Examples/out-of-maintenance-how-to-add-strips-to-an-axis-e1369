@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/Strips/Form1.cs) (VB: [Form1.vb](./VB/Strips/Form1.vb))
+<!-- default file list end -->
 # How to add strips to an axis
 
 
