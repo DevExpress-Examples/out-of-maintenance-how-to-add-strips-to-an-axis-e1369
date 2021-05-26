@@ -6,8 +6,6 @@
 # How to add strips to an axis
 
 
-<p>This example demonstrates how <a href="http://devexpress.com/Help/Content.aspx?help=XtraCharts&document=CustomDocument5784.htm">strips</a> can be created and customized at runtime.</p><p>Since strips reside in an appropriate <a href="http://devexpress.com/Help/Content.aspx?help=XtraCharts&document=CustomDocument6016.htm">axis</a> collection, you should first cast your <a href="http://devexpress.com/Help/Content.aspx?help=XtraCharts&document=CustomDocument6017.htm">diagram</a> object to the required diagram type. Then, you can access the collection via the <strong>axis.Strips</strong> property.</p>
+This example demonstrates how [strips](https://docs.devexpress.com/WindowsForms/5784/controls-and-libraries/chart-control/axes/strips?p=netframework) can be created and customized at runtime.
 
-<br/>
-
-
+Since strips reside in an appropriate [axis](https://docs.devexpress.com/WindowsForms/5779/controls-and-libraries/chart-control/diagram/axes?p=netframework) collection, you should first cast your [diagram](https://docs.devexpress.com/WindowsForms/5778/controls-and-libraries/chart-control/diagram?p=netframework) object to the required diagram type. Then, you can access the collection via the [Axis.Strips](https://docs.devexpress.com/CoreLibraries/DevExpress.XtraCharts.Axis2D.Strips?p=netframework) property.
